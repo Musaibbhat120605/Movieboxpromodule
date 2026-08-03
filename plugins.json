@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/builds/AllMovieLandProvider.cs3",
+    "status": 1,
+    "version": 23,
+    "name": "AllMovieLandProvider",
+    "internalName": "AllMovieLandProvider",
+    "authors": [
+      "Musaib"
+    ],
+    "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+    "fileSize": 57618,
+    "repositoryUrl": "https://github.com/Musaibbhat120605/Movieboxpromodule",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Cartoon"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-938e5d6b1a41f3f625384a9cd559811b63528da0c3cc26c8adca2efbf0cc65c9",
+    "jarFileSize": 297020,
+    "jarUrl": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/builds/AllMovieLandProvider.jar",
+    "jarHash": "sha256-c75e73bd21d30fa6a2edff462c91c3884e475c16b866261a52c2cc1b98a7f609"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/builds/MovieBoxProvider.cs3",
+    "status": 1,
+    "version": 26,
+    "name": "MovieBoxProvider",
+    "internalName": "MovieBoxProvider",
+    "authors": [
+      "NivinCNC,Musaib"
+    ],
+    "description": "Multi Language Movies and Series Provider",
+    "fileSize": 72427,
+    "repositoryUrl": "https://github.com/Musaibbhat120605/Movieboxpromodule",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/main/Icons/RepoIcon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
+  }
+]

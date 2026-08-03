@@ -1,0 +1,9 @@
+{
+  "name": "MovieBoxPro Module",
+  "iconUrl": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/main/Icons/RepoIcon.png",
+  "description": "MovieBoxPro Module Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/builds/plugins.json"
+  ]
+}
