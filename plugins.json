@@ -27,14 +27,14 @@
   {
     "url": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 26,
+    "version": 41,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Musaib"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 72427,
+    "fileSize": 219741,
     "repositoryUrl": "https://github.com/Musaibbhat120605/Movieboxpromodule",
     "language": "hi",
     "tvTypes": [
@@ -43,6 +43,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Musaibbhat120605/Movieboxpromodule/main/Icons/RepoIcon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
+    "fileHash": "sha256-bccfb6e0647394f636010b9553cc19138010ba17518762b78f29337be4c728a9"
   }
 ]
